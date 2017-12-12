@@ -1,5 +1,7 @@
 # Three-Good-Things
 
+This project was created for academic purposes on the subject of 'Mobile Networks and Applications' at the Aristotle University of Thessaloniki.
+
 A simple android app which enables and motivates users to record three good things every day. It is based on a positive psychology exercise scientifically proven to decrease anxiety, stress and depression.
 
 * The date of the day and the three good things of the day are stored permanently in an SQLite database.
